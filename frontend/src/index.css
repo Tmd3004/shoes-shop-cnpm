@@ -54,7 +54,7 @@ main {
 }
 
 .card-img-top {
-  height: 400px;
+  height: 300px;
   object-fit: cover;
 }
 
@@ -149,4 +149,12 @@ main {
 
 button.thumbnail {
   padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+li > a {
+  text-decoration: none;
 }
