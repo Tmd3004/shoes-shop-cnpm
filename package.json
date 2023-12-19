@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tmd3004/shoes-shop-cnpm"
+    "url": "git+https://github.com/Tmd3004/shoes-shop-cnpm.git"
   },
   "author": "Manh Duc",
   "license": "ISC"
