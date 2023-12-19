@@ -22,7 +22,7 @@ const data = {
       slug: 'nike-air-force-1',
       category: 'Shoe',
       image: '/images/p1.jpeg', // 679px × 829px
-      price: 120,
+      price: 0.01,
       countInStock: 10,
       brand: 'Nike',
       rating: 4.5,
